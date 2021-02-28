@@ -1,0 +1,35 @@
+article#main_contents section h1 {
+    background: transparent url(../images/rules/rules_title.png) no-repeat 0px 0px;
+}
+
+article#main_contents section div {
+    width: 610px;
+    margin: 30px 0px 0px 46px;
+    padding: 0px;
+    text-align: left;
+}
+
+article#main_contents section div h2 {
+    width: auto;
+    height: auto;
+    margin: 20px 0px;
+    padding: 0px;
+    text-indent:0px;
+    font-size: 16px;
+    position: static;
+    background-image: none;
+}
+
+article#main_contents section div p {
+    margin: 10px 0px;
+    padding: 0px;
+    font-size: 14px;
+}
+
+article#main_contents section div ol {
+    font-size: 14px;
+}
+
+article#main_contents section div ul li {
+
+}

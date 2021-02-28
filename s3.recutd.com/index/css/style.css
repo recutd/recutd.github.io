@@ -1,0 +1,325 @@
+article,aside,canvas,details,figcaption,figure,footer,header,hgroup,menu,nav,section,summary {
+    display:block;
+}
+
+a {
+    overflow: hidden;
+    outline: none;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+    background: #ffffff url(../images/common/background_01.jpg) repeat-x center top;
+}
+
+h1 {
+    width: 185px;
+    height: 47px;
+    margin: 0px;
+    padding: 0px;
+    text-align: left;
+    background: transparent url(../images/common/index_rogo.png) no-repeat 0px 0px;
+    text-indent: -9999px;
+    float: left;
+}
+
+h1 a {
+    width: 185px;
+    height: 47px;
+    display: block;
+}
+
+header {
+    width: 1000px;
+    height: 47px;
+    margin: 20px auto 0px auto;
+    padding: 0px;
+}
+
+header nav#menu {
+    width: 815px;
+    height: 47px;
+    margin: 0px;
+    padding: 0px;
+    float: right;
+}
+
+header nav#menu ul {
+    height: 47px;
+    margin: 22px 0px 0px 0px;
+    padding: 0px;
+    list-style: none;
+}
+
+header nav#menu ul li {
+    height: 24px;
+    margin: 0px;
+    padding: 0px;
+    text-indent: -9999px;
+    text-align: left;
+    float: right;
+}
+
+header nav#menu ul li p {
+    margin: 0px;
+    padding: 0px;
+}
+
+header nav#menu ul li a {
+    height: 24px;
+    margin: 0px;
+    padding: 0px;
+    display: block;
+}
+
+header nav#menu ul li.service {
+    width: 105px;
+
+    background: url(../images/common/index_menu_border.png) no-repeat 0px 0px,
+    url(../images/common/index_menu_service.png) no-repeat 3px 0px,
+    url(../images/common/index_menu_border.png) no-repeat 102px 0px,
+    #ffffff;
+
+    -pie-background:
+      url("../images/common/index_menu_border.png") no-repeat 0px 0px,
+      url("../images/common/index_menu_service.png") no-repeat 3px 0px,
+      url("../images/common/index_menu_border.png") no-repeat 102px 0px;
+
+    behavior:url("/uozanohana/media/PIE.htc");
+    position:relative;
+}
+
+header nav#menu ul li.service a {
+    width: 105px;
+}
+
+header nav#menu ul li.company {
+    width: 111px;
+
+    background: url(../images/common/index_menu_company.png) no-repeat 0px 0px,
+    url(../images/common/index_menu_border.png) no-repeat 108px 0px,
+    #ffffff;
+
+    -pie-background:
+      url("../images/common/index_menu_company.png") no-repeat 0px 0px,
+      url("../images/common/index_menu_border.png") no-repeat 108px 0px;
+
+    behavior:url("/uozanohana/media/PIE.htc");
+    position:relative;
+}
+
+header nav#menu ul li.company a {
+    width: 111px;
+}
+
+header nav#menu ul li.recruit {
+    width: 69px;
+
+    background: url(../images/common/index_menu_recruit.png) no-repeat 0px 0px,
+    url(../images/common/index_menu_border.png) no-repeat 66px 0px,
+    #ffffff;
+
+    -pie-background:
+      url("../images/common/index_menu_recruit.png") no-repeat 0px 0px,
+      url("../images/common/index_menu_border.png") no-repeat 66px 0px;
+
+    behavior:url("/uozanohana/media/PIE.htc");
+    position:relative;
+}
+
+header nav#menu ul li.recruit a {
+    width: 69px;
+}
+
+header nav#menu ul li.mail {
+    width: 120px;
+
+    background: url(../images/common/index_menu_mail.png) no-repeat 0px 0px,
+    url(../images/common/index_menu_border.png) no-repeat 117px 0px,
+    #ffffff;
+
+    -pie-background:
+      url("../images/common/index_menu_mail.png") no-repeat 0px 0px,
+      url("../images/common/index_menu_border.png") no-repeat 117px 0px;
+
+    behavior:url("/uozanohana/media/PIE.htc");
+    position:relative;
+}
+
+header nav#menu ul li.mail a {
+    width: 120px;
+}
+
+section#image {
+    width: 100%;
+    height: 389px;
+    margin: 12px 0px 0px 0px;
+    padding: 0px;
+    overflow-x:hidden;
+    background: transparent url(../images/index/index_thumb_01.png) no-repeat center 0px;
+    border-top: 1px #000 solid;
+    border-bottom: 1px #000 solid;
+}
+
+#contents {
+    width: 1000px;
+    margin: 0px auto;
+    padding: 0px;
+}
+
+#main {
+    width: 1000px;
+    margin: 0px auto;
+    padding: 0px;
+}
+
+article#contents {
+    width: 1000px;
+    margin: 0px auto;
+    padding: 0px;
+}
+
+article#contents section {
+    width: 1000px;
+    margin: 0px;
+    padding: 0px;
+}
+
+article#contents section h2 {
+    width: 1000px;
+    height: 50px;
+    margin: 40px 0px 10px 0px;
+    padding: 0px;
+    text-indent: -9999px;
+}
+
+article#contents section#service h2 {
+    background: transparent url(../images/index/index_service_title.png) no-repeat 0px 0px;
+}
+
+article#contents section#company h2 {
+    background: transparent url(../images/index/index_company_title.png) no-repeat 0px 0px;
+}
+
+article#contents section#recruit h2 {
+    background: transparent url(../images/index/index_recruit_title.png) no-repeat 0px 0px;
+}
+
+article#contents section#mail h2 {
+    background: transparent url(../images/index/index_mail_title.png) no-repeat 0px 0px;
+}
+
+
+article#contents section#service {
+    height: 300px;
+    clear: both;
+}
+
+article#contents section#service div {
+    margin: 0px;
+    padding: 0px;
+    float: left;
+}
+
+article#contents section#service div.icon {
+    width: 177px;
+}
+
+article#contents section#service div.icon p {
+    margin: 0px;
+    padding: 0px;
+}
+
+article#contents section#service div.infomation {
+    width: 459px;
+    margin: 10px 0px 0px 40px;
+    font-size: 80%;
+}
+
+article#contents section#service div.infomation dl {
+    width: 499px;
+    height: 198px;
+    margin: 0px 0px 0px 0px;
+    padding: 0px;
+    clear: both;
+}
+
+article#contents section#service div.infomation dl dt {
+    width: 100px;
+    margin: 0px;
+    padding: 0px;
+    float: left;
+}
+
+article#contents section#service div.infomation dl dd {
+    width: 399px;
+    margin: 0px 0px 3px 0px;
+    padding: 0px;
+    float: left;
+}
+
+article#contents section#service div.infomation p.links {
+    margin: 0px 0px 0px 0px;
+    padding: 0px;
+}
+
+article#contents section#service div.thumb {
+    width: 324px;
+}
+
+article#contents section#company p.map {
+    margin: 20px 0px 0px 0px;
+    padding: 0px;
+}
+article#contents section#company dl {
+    width: 1000px;
+    height: 140px;
+    margin: 14px 0px 0px 0px;
+    padding: 0px;
+    font-size: 90%;
+    clear: both;
+}
+
+article#contents section#company dl dt {
+    width: 100px;
+    margin: 0px;
+    padding: 0px;
+    float: left;
+}
+
+article#contents section#company dl dd {
+    width: 897px;
+    margin: 0px 0px 3px 0px;
+    padding: 0px;
+    float: left;
+}
+
+article#contents section#recruit p {
+    margin: 0px 0px 70px 0px;
+    padding: 0px;
+}
+
+article#contents section#mail p {
+    height: 61px;
+    margin: 0px;
+    padding: 18px 0px 0px 60px;
+    
+    background: #ffffff url(../images/index/index_mail_icon.png) no-repeat left top;
+}
+
+article#contents section#description {
+    margin:20px 0px 10px 0px;
+    padding: 0px;
+    font-size: 60%;
+    text-align: right;
+}
+
+footer {
+    width: 100%;
+    margin: 0px 0px 40px 0px;
+    padding: 0px;
+    text-align: center;
+    border-top: 1px #000 solid;
+    font-size: 85%;
+}

@@ -1,0 +1,190 @@
+article#main_contents section h1 {
+    background: transparent url(../images/character/character_title.png) no-repeat 0px 0px;
+}
+
+article#main_contents section h2 {
+    width: 640px;
+    height: 30px;
+    margin: 30px 0px 0px auto;
+    padding: 0px;
+    position: static;
+    text-align: left;
+    text-indent: -9999px;
+}
+
+article#main_contents section h2#elvida_0001 {
+    background: transparent url(../images/character/character_elvida_0001.png) no-repeat 0px 0px;
+}
+
+article#main_contents section h2#elvida_0002 {
+    background: transparent url(../images/character/character_elvida_0002.png) no-repeat 0px 0px;
+}
+
+article#main_contents section h2#elvida_0003 {
+    background: transparent url(../images/character/character_elvida_0003.png) no-repeat 0px 0px;
+}
+
+article#main_contents section ul {
+    width: 640px;
+    height: 449px;
+    margin: 0px 0px 0px auto;
+    padding: 16px 0px 0px 0px;
+    list-style: none;
+    text-align: left;
+}
+
+article#main_contents section ul li {
+    width: 76px;
+    height: 449px;
+    margin: 0px 4px 0px 0px;
+    padding: 0px;
+    text-indent: -9999px;
+    text-align: left;
+    float: left;
+}
+
+article#main_contents section ul li a {
+    width: 76px;
+    height: 449px;
+    margin: 0px;
+    padding: 0px;
+    text-indent: -9999px;
+    text-align: left;
+    display: block;
+}
+
+article#main_contents section ul li#character_08 { 
+    margin: 0px;
+}
+
+article#main_contents section ul li#character_01 { 
+    background: transparent url(../images/character/character_0001_on.png) no-repeat 0px 0px;
+}
+
+article#main_contents section ul li#character_02 { 
+    background: transparent url(../images/character/character_0002_on.png) no-repeat 0px 0px;
+}
+
+article#main_contents section ul li#character_03 { 
+    background: transparent url(../images/character/character_0003_on.png) no-repeat 0px 0px;
+}
+
+article#main_contents section ul li#character_04 { 
+    background: transparent url(../images/character/character_0004_on.png) no-repeat 0px 0px;
+}
+
+article#main_contents section ul li#character_05 { 
+    background: transparent url(../images/character/character_0005_on.png) no-repeat 0px 0px;
+}
+
+article#main_contents section ul li#character_06 { 
+    background: transparent url(../images/character/character_0006_on.png) no-repeat 0px 0px;
+}
+
+article#main_contents section ul li#character_07 { 
+    background: transparent url(../images/character/character_0007_on.png) no-repeat 0px 0px;
+}
+
+article#main_contents section ul li#character_08 { 
+    background: transparent url(../images/character/character_0008_on.png) no-repeat 0px 0px;
+}
+
+article#main_contents section ul li#character_09 { 
+    background: transparent url(../images/character/character_0009.png) no-repeat 0px 0px;
+}
+
+article#main_contents section ul li#character_10 { 
+    background: transparent url(../images/character/character_0010.png) no-repeat 0px 0px;
+}
+
+article#main_contents section ul li#character_11 { 
+    background: transparent url(../images/character/character_0011.png) no-repeat 0px 0px;
+}
+
+article#main_contents section ul li#character_12 { 
+    background: transparent url(../images/character/character_0012.png) no-repeat 0px 0px;
+}
+
+article#main_contents section ul li#character_13 { 
+    background: transparent url(../images/character/character_0013.png) no-repeat 0px 0px;
+}
+
+article#main_contents section ul li#character_14 { 
+    background: transparent url(../images/character/character_0014.png) no-repeat 0px 0px;
+}
+
+article#main_contents section ul li#character_15 { 
+    background: transparent url(../images/character/character_0015.png) no-repeat 0px 0px;
+}
+
+article#main_contents section ul li#character_16 { 
+    background: transparent url(../images/character/character_0016.png) no-repeat 0px 0px;
+}
+
+article#main_contents section ul li#character_17 { 
+    background: transparent url(../images/character/character_0017.png) no-repeat 0px 0px;
+}
+
+article#main_contents section ul li#character_01 a { 
+    background: transparent url(../images/character/character_0001_off.png) no-repeat 0px 0px;
+}
+
+article#main_contents section ul li#character_02 a { 
+    background: transparent url(../images/character/character_0002_off.png) no-repeat 0px 0px;
+}
+
+article#main_contents section ul li#character_03 a { 
+    background: transparent url(../images/character/character_0003_off.png) no-repeat 0px 0px;
+}
+
+article#main_contents section ul li#character_04 a { 
+    background: transparent url(../images/character/character_0004_off.png) no-repeat 0px 0px;
+}
+
+article#main_contents section ul li#character_05 a { 
+    background: transparent url(../images/character/character_0005_off.png) no-repeat 0px 0px;
+}
+
+article#main_contents section ul li#character_06 a { 
+    background: transparent url(../images/character/character_0006_off.png) no-repeat 0px 0px;
+}
+
+article#main_contents section ul li#character_07 a { 
+    background: transparent url(../images/character/character_0007_off.png) no-repeat 0px 0px;
+}
+
+article#main_contents section ul li#character_08 a { 
+    background: transparent url(../images/character/character_0008_off.png) no-repeat 0px 0px;
+}
+
+article#main_contents section ul li#character_01 a:hover { 
+    background-image: none;
+}
+
+article#main_contents section ul li#character_02 a:hover { 
+    background-image: none;
+}
+
+article#main_contents section ul li#character_03 a:hover { 
+    background-image: none;
+}
+
+article#main_contents section ul li#character_04 a:hover { 
+    background-image: none;
+}
+
+article#main_contents section ul li#character_05 a:hover { 
+    background-image: none;
+}
+
+article#main_contents section ul li#character_06 a:hover { 
+    background-image: none;
+}
+
+article#main_contents section ul li#character_07 a:hover { 
+    background-image: none;
+}
+
+article#main_contents section ul li#character_08 a:hover { 
+    background-image: none;
+}

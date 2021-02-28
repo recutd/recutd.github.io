@@ -1,0 +1,63 @@
+article#main_contents section {
+    height: 579px;
+    position: relative;
+}
+
+article#main_contents section h1 {
+    background: transparent url(../images/character/character_title.png) no-repeat 0px 0px;
+}
+
+article#main_contents section h2 {
+    margin: 0px;
+    padding: 0px;
+    text-align: left;
+    text-index: -9999px;
+    background-image: none;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+article#main_contents section img {
+    position: absolute;
+    top: 40px;
+    left: 0px;
+}
+
+article#main_contents section p {
+    width: 355px;
+    height: 244px;
+    margin: 0px;
+    padding: 0px;
+    text-align: left;
+    text-indent: -9999px;
+    position: absolute;
+    top: 110px;
+    left: 36px;
+}
+
+article#main_contents section nav {
+    width: 89px;
+    height: 39px;
+    margin: 0px;
+    padding: 0px;
+    text-align: left;
+    background: transparent url(../images/character/character_back_button_on.png) no-repeat 0px 0px;
+    position: absolute;
+    top: 360px;
+    left: 46px;
+}
+
+article#main_contents section nav a{
+    width: 89px;
+    height: 39px;
+    margin: 0px;
+    padding: 0px;
+    display: block;
+    text-indent: -9999px;
+    background: transparent url(../images/character/character_back_button_off.png) no-repeat 0px 0px;
+}
+
+article#main_contents section nav a:hover {
+    background-image: none;
+}

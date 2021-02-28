@@ -1,0 +1,73 @@
+article#main_contents section h1 {
+    background: transparent url(../images/infomation/infomation_title.png) no-repeat 0px 0px;
+}
+
+article#main_contents section div {
+    width: 610px;
+    margin: 30px 0px 0px 46px;
+    padding: 0px 0px 20px 0px;
+    text-align: left;
+}
+
+article#main_contents section div h2 {
+    width: 200px;
+    height: 30px;
+    margin: 0px;
+    padding: 0px;
+    text-indent:0px;
+    font-size: 16px;
+    position: static;
+    background-image: none;
+    float: left;
+}
+
+article#main_contents section div p.category {
+    width : 100px;
+    height: 30px;
+    margin: 0px;
+    padding: 0px;
+    text-aling: right;
+    text-align: left;
+    text-indent: -9999px;
+    float: right;
+}
+
+article#main_contents section div p.infomation {
+    background: transparent url(../images/infomation/infomation_icon_information.png) no-repeat 0px 0px;
+}
+
+article#main_contents section div p.maintenance {
+    background: transparent url(../images/infomation/infomation_icon_maintenance.png) no-repeat 0px 0px;
+}
+
+article#main_contents section div h3 {
+    width: auto;
+    height: auto;
+    margin: 0px 0px 10px 0px;
+    padding: 0px;
+    text-indent:0px;
+    font-size: 16px;
+    position: static;
+    background-image: none;
+    clear: both;
+}
+
+article#main_contents section div p {
+    margin: 10px 0px;
+    padding: 0px;
+    font-size: 14px;
+}
+
+article#main_contents section div p.link {
+    width: 610px;
+    text-align: center;
+}
+
+article#main_contents section div ol {
+    font-size: 14px;
+}
+
+article#main_contents section div ul li {
+
+}
+

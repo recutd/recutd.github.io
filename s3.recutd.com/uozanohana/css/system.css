@@ -1,0 +1,91 @@
+article#main_contents section h1 {
+    background: transparent url(../images/system/system_title.png) no-repeat 0px 0px;
+}
+
+article#main_contents section div {
+    width: 640px;
+    height: 320px;
+    margin: 40px 0px 0px auto;
+    padding: 0px;
+    position: relative;
+}
+
+article#main_contents section div h2 {
+    width: 326px;
+    height: 49px;
+    margin: 0px;
+    padding: 0px;
+    background: transparent url(../images/system/system_subtitle_01.png) no-repeat 0px 0px;
+    text-align: left;
+    text-indent: -9999px;
+    position: static;
+}
+
+article#main_contents section div#contents_01 h2 {
+    background: transparent url(../images/system/system_subtitle_01.png) no-repeat 0px 0px;
+}
+
+article#main_contents section div#contents_02 h2 {
+    background: transparent url(../images/system/system_subtitle_02.png) no-repeat 0px 0px;
+}
+
+article#main_contents section div#contents_03 h2 {
+    background: transparent url(../images/system/system_subtitle_03.png) no-repeat 0px 0px;
+}
+
+article#main_contents section div#contents_04 h2 {
+    background: transparent url(../images/system/system_subtitle_04.png) no-repeat 0px 0px;
+}
+
+article#main_contents section div#contents_05 h2 {
+    background: transparent url(../images/system/system_subtitle_05.png) no-repeat 0px 0px;
+}
+
+article#main_contents section div p {
+    width: 326px;
+    height: 240px;
+    margin: 0px;
+    padding: 0px;
+    text-align: left;
+    text-indent: -9999px;
+}
+
+article#main_contents section div img {
+    position: absolute;
+}
+
+article#main_contents section div img.thumb_01 {
+    top: 0px;
+    left: 354px;
+}
+
+article#main_contents section div img.thumb_02 {
+    top: 197px;
+    left: 354px;
+}
+
+article#main_contents section div img.thumb_03 {
+    top: 197px;
+    left: 500px;
+}
+
+article#main_contents section div#contents_01 p {
+   background: transparent url(../images/system/system_text_01.png) no-repeat 0px 0px;
+}
+
+article#main_contents section div#contents_02 p {
+   background: transparent url(../images/system/system_text_02.png) no-repeat 0px 0px;
+}
+
+article#main_contents section div#contents_03 p {
+   background: transparent url(../images/system/system_text_03.png) no-repeat 0px 0px;
+}
+
+article#main_contents section div#contents_04 p {
+   background: transparent url(../images/system/system_text_04.png) no-repeat 0px 0px;
+}
+
+article#main_contents section div#contents_05 p {
+   background: transparent url(../images/system/system_text_05.png) no-repeat 0px 0px;
+}
+
